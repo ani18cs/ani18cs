@@ -45,7 +45,7 @@
 Name        : Aniket Kumar Singh
 Identity    : AI Engineer • Cybersecurity Researcher • Cloud Architect
 Education   : B.E. Computer Science & Engineering @ DSATM Bengaluru
-Leadership  : Founder @ E-Cell DSATM (Empowering 2000+ Students)
+Leadership  : President @ E-Cell DSATM (Empowering 2000+ Students)
 Specialties : Multi-lingual RAG Systems, Blue Team SOC, AWS Cloud Sec, CCNA Networking
 Mission     : "Architecting high-speed AI pipelines and impregnable defense infrastructure."
 Threat Level: DEFENDER MODE ACTIVE 🛡️
